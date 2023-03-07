@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(255, 179, 217);
+    text-align: center;
+}
+
+h1:hover {
+    color: black;
+}
+
+h1 {
+    color: white;
+}
+
+p1 {
+    color: white;
+    text-align: center;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+p2 {
+    color: white;
+    text-align: center;
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    font-size: 1.5em;
+}
+
+p3 {
+    text-align: left;
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+    font-weight: bold;
+}
+
+img {
+    width: 25%;
+}
+
+h2 {
+    color: white;
+    font-size: 2em;
+    width: 32%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+footer {
+    width: 40%;
+    margin: 0 auto;
+}
