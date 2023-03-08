@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Nunito+Sans:wght@400;700&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
@@ -30,6 +32,8 @@ main {
 
 body {
     background-color: #1982C4;
+    font-family: "Nunito Sans", Helvetica, sans-serif;
+    font-size: 22px;
 }
 
 a:hover {
@@ -68,21 +72,16 @@ footer p a:hover {
     text-decoration: underline;
 }
 
-.book {
+.book, .join {
     text-decoration: none;
     background-color: #8AC926;
     padding: 10px;
+    font-size: 18px;
 }
 
 .book:hover {
     background-color: #0C056D;
     color: white;
-}
-
-.join {
-    text-decoration: none;
-    background-color: #8AC926;
-    padding: 10px;
 }
 
 .join:hover {
@@ -93,11 +92,13 @@ footer p a:hover {
 .msg {
     background-color: #0C056D;
     color: white;
+    line-height: 1.5em;
 }
 
 header {
     background-color: #0C056D;
     color: white;
+    font-family: "Bakbak One"
 }
 
 .logo {
@@ -106,4 +107,12 @@ header {
 
 .icon {
     width: 80px;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Bakbak One";
+}
+
+.home-title{
+    font-size: 2em;
 }
