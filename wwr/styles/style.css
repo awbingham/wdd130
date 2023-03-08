@@ -155,3 +155,7 @@ h1, h2, h3, h4 {
 main section img {
     box-sizing: border-box;
 }
+
+#hero-img {
+    width: 100%;
+}
