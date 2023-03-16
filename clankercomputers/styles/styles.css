@@ -17,8 +17,8 @@ header {
     display: grid;
     grid-template-columns: 200px auto;
     grid-template-rows: 125px;
-    background-color: #004346;
-    color: white;
+    background-color: #F8E109;
+    color: #172A3A;
     font-family: Roboto;
 }
 
@@ -34,7 +34,7 @@ nav {
 
 nav a {
     text-decoration: none;
-    color: white;
+    color: #172A3A;
     text-align: center;
     padding: 40px;
 }
@@ -44,8 +44,8 @@ a {
 }
 
 nav a:hover {
-    color: black;
-    background-color: #F8E109;
+    color: #F8E109;
+    background-color: #004346;
 }
 
 .logo {
