@@ -226,6 +226,34 @@ main section img {
     grid-row: 6/7;
 }
 
+/* Rivers Page */
+
+#title {
+    text-align: center;
+    background-color: #0C056D;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+.river-info {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #8AC926;
+}
+
+.river-pic {
+    width: 48%;
+    margin-top: -20px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.rivers-p {
+    margin-top: -20px;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
