@@ -240,6 +240,8 @@ main section img {
     margin-left: 20px;
     margin-right: 20px;
     background-color: #8AC926;
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 .river-pic {
