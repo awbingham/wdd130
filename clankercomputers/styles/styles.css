@@ -11,6 +11,7 @@ body {
     font-size: 22px;
     margin: 0;
     padding: 0;
+    color: white;
 }
 
 header {
@@ -138,4 +139,55 @@ footer p a {
 
 footer a:hover {
     color: #F8E109;
+}
+
+/* Specifications Page */
+
+.spec-info {
+    margin: 20px;
+}
+
+.spec-title {
+    text-align: center;
+}
+
+.spec-build {
+    background-color: #004346;
+    padding: 20px;
+    font-size: .9em;
+}
+
+.build-img {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 10px solid #AAAAA0;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Tutorial Page */
+
+.tutorial-title {
+    text-align: center;
+}
+
+.tutorial-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border: 10px solid #AAAAA0;
+    margin-bottom: 30px;
+}
+
+.tutorial-img:hover {
+    opacity: .7;
+    transform: scale(1.1);
+}
+
+.tutorial-content {
+    padding: 20px;
+    background-color: #004346;
 }
