@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Roboto:wght@400;500&display=swap');
 
-content {
+#content {
     max-width: 1600px;
     margin: 0 auto;
 }
@@ -60,6 +60,10 @@ nav a:hover {
 
 h1, h2, h3, h4 {
     font-family: Roboto;
+}
+
+#logo-link {
+    margin-right: auto;
 }
 
 .top-title{
