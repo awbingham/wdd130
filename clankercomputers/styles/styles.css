@@ -271,3 +271,8 @@ p {
     padding: 20px;
     background-color: #004346;
 }
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
