@@ -282,3 +282,7 @@ iframe {
     height: 315px; 
     border: 0;
 }
+
+.list{
+    padding: 20px;
+}
